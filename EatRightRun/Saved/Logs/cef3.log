@@ -1,7 +1,0 @@
-[7412:804:0424/103054.143:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[7412:804:0424/103054.219:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[1292:5484:0424/103059.996:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-59B63E5252D25A4D468D5E70A0FAF0EC will be ignored
-[7412:804:0424/112634.341:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[7412:804:0424/114242.112:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[7412:804:0424/120025.076:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[7412:804:0424/120515.104:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
