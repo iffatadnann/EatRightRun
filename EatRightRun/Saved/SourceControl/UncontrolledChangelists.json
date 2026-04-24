@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/ThirdPerson/Blueprints/BP_Character.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/UI/WB_HealthBar.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/Characters/MyCharacter/Characterjump_PhysicsAsset.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/Characters/MyCharacter/Characterjump.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/Characters/MyCharacter/Characterjump_Anim.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/Blueprints/ABP_MyCharacter.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/Characters/MyCharacter/Character__1_.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/Characters/MyCharacter/Material/skin_inst.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/Characters/MyCharacter/Material/Skin.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/Characters/MyCharacter/Material/Shirtxeyesxshoes.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/Characters/MyCharacter/Material/Parent_Material.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/Characters/MyCharacter/Material/Pant.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/Characters/MyCharacter/Pant.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/Characters/MyCharacter/Parent_Material.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/Characters/MyCharacter/Shirtxeyesxshoes.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/Characters/MyCharacter/Skin.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/Characters/MyCharacter/skin_inst.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/Blueprints/BP_Floor.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/5M/DLTK62IHAJ3EG469N8Q642.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/AH/39VFV5W5BFT7QC7XEXTXQV.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/F2/Y7TGHJY6P6ULIZDXF3KH4S.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/HR/A0GDGDEJFRS3G0RPUBCZQI.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/OV/GL7TT7TFQ55UFN3BMTJ7P1.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/7N/37BYFOLZZKGTX0P7TFYGD8.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/Z5/P0XIA26IVR7Q85RMD8RGO7.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/8U/VKFLMM0CV8ZCC0P3TQGTTM.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/GM/OA2MLJECRTKO5I140T52GO.uasset",
+				"C:/Users/unreal_k-10/Documents/GitHub/EatRightRun/EatRightRun/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/6Y/WNJFMB2W0XFNFUT9E4RL5S.uasset"
+			]
+		}
+	]
+}
